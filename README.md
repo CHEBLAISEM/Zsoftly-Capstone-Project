@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 ZSOFTLY Capstone Project: Online Assignment  
 
 ## **Project Overview**  
@@ -113,3 +114,6 @@ Re-deploy anytime by running terraform apply.
 
 
 
+=======
+# Zsoftly-Capstone-Project
+>>>>>>> b22862667391f8993609328d5b14f1bdc03a7cba
