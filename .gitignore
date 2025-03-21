@@ -24,3 +24,11 @@ crash.log
 # Ignore any zip or temporary files
 *.zip
 *.tmp
+
+# Ignore Terraform directories and state files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform.lock.hcl
+
